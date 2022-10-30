@@ -16,4 +16,5 @@ Első körben elvégeztünk egy kb. 3 hónapos szakkört, így elsajátítva a k
 Kutatási projektünk eredményeképpen szimulációs környezetet fejlesztettünk  Python programozási nyelven a B92 protokoll vizsgálatához. A programozás során elemeztük Anna és Béla kommunikációját zajtalan, illetve zajos környezetben is. A zajt a közvetítőközeg fotonok állapotára gyakorolt hatásaként építettük be, amely kis mértékben megváltoztatja a kvantumbiteket reprezentáló fotonok állapotát, így Béla mérési valószínűségeit is. Vizsgáltuk, hogy egy harmadik, külső, támadó fél (Éva) hogyan zavarja meg Anna és Béla kommunikációját azzal, hogy mérési beavatkozásával megváltoztatja a fotonok (kvantumbitek) állapotát. Éva támadását zajmentes és zajos környezetben is vizsgáltuk. Megnéztük, hogy mennyi az optimális kvantumbit-szám, amelyet Annának és Bélának érdemes ellenőrizni annak érdekében, hogy Éva támadásáról megbizonyosodjanak.
 
 
-Csaplár Miklós, Kemecsei Kornél (Czuczor Gergely Bencés Gimnázium és Kollégium, Győr, 12. osztály)
+Csaplár Miklós, Kemecsei Kornél (Czuczor Gergely Bencés Gimnázium, Győr, 12. osztály)
+Lektorálta: Imre Sándor (BME VIK), Tóth Kristóf (Czuzor Gergely Bencés Gimnázium)
