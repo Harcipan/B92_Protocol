@@ -17,4 +17,5 @@ Kutatási projektünk eredményeképpen szimulációs környezetet fejlesztettü
 
 
 Csaplár Miklós, Kemecsei Kornél (Czuczor Gergely Bencés Gimnázium, Győr, 12. osztály)
+
 Lektorálta: Imre Sándor (BME VIK), Tóth Kristóf (Czuzor Gergely Bencés Gimnázium)
